@@ -1,11 +1,16 @@
 # onion-hosting-0419
 
 ## with Freedom Hosting Reloaded
+this project is creating anonymous web. All addresses depend on onion. The hidden hosting service called daniel's hosting has been hacked, so here's an alternative version of it. But since this project is the next 2-5 for me, there may not be much progress. It's a hobby area:)<br>
+
 site: [Freedom Hosting Reloaded](http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/)<br>
-->(h)ttp://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/
+->(h)ttp://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/<br>
+FTP: [net2ftp](http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/ftp/)<br>
+->(h)ttp://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/ftp/
 
 - UN:NumCat623<br>
 - PASS:***(always)
+- FTPPASS:***(always)+!
 
 Anonymous Freehosting with PHP/MySQL Support @ fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion
 
